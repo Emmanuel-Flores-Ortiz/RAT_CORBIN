@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: f6b2cd2410952554fbbfbb5c36ae20e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2580122342670247677
+    second: molcajete_0
+  - first:
+      213: -5514473342016098030
+    second: molcajete_1
+  - first:
+      213: 4363431356541294068
+    second: molcajete_2
+  - first:
+      213: 6731711977187406163
+    second: molcajete_3
+  - first:
+      213: -930419277273134122
+    second: molcajete_4
+  - first:
+      213: 1848506462455612631
+    second: molcajete_5
+  - first:
+      213: 5059545640317096906
+    second: molcajete_6
+  - first:
+      213: 7467421220431354313
+    second: molcajete_7
+  - first:
+      213: 7059852454882235788
+    second: molcajete_8
+  - first:
+      213: 2583046970184720133
+    second: molcajete_9
+  - first:
+      213: 404641264012646323
+    second: molcajete_10
+  - first:
+      213: 918174836165341469
+    second: molcajete_11
+  - first:
+      213: -7913173501606138230
+    second: molcajete_12
+  - first:
+      213: -8124010382513299755
+    second: molcajete_13
+  - first:
+      213: -7704713650568280982
+    second: molcajete_14
+  - first:
+      213: 242289057749245902
+    second: molcajete_15
+  - first:
+      213: -6867517815765140508
+    second: molcajete_16
+  - first:
+      213: 6826095340220395161
+    second: molcajete_17
+  - first:
+      213: 1722871512579435683
+    second: molcajete_18
+  - first:
+      213: -5910920849911414260
+    second: molcajete_19
+  - first:
+      213: 7769749862295903069
+    second: molcajete_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: molcajete_0
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 4198
+        width: 186
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6a8efb99f6ec320800000000000000
+      internalID: 2580122342670247677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_1
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 4198
+        width: 186
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211f4cd56b7a873b0800000000000000
+      internalID: -5514473342016098030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_2
+      rect:
+        serializedVersion: 2
+        x: 6077
+        y: 4343
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5d17843b50e8c30800000000000000
+      internalID: 4363431356541294068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_3
+      rect:
+        serializedVersion: 2
+        x: 8145
+        y: 4343
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3517f7a8068db6d50800000000000000
+      internalID: 6731711977187406163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_4
+      rect:
+        serializedVersion: 2
+        x: 5972
+        y: 4198
+        width: 186
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db85fdc89c7613f0800000000000000
+      internalID: -930419277273134122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_5
+      rect:
+        serializedVersion: 2
+        x: 8040
+        y: 4198
+        width: 186
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d44ea375d637a910800000000000000
+      internalID: 1848506462455612631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_6
+      rect:
+        serializedVersion: 2
+        x: 10108
+        y: 4198
+        width: 186
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac31af704fd173640800000000000000
+      internalID: 5059545640317096906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_7
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 3006
+        width: 186
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c95600390c91a760800000000000000
+      internalID: 7467421220431354313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_8
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 3006
+        width: 186
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85dceb2762a9f160800000000000000
+      internalID: 7059852454882235788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_9
+      rect:
+        serializedVersion: 2
+        x: 5972
+        y: 3006
+        width: 186
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f5208a883d8d320800000000000000
+      internalID: 2583046970184720133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_10
+      rect:
+        serializedVersion: 2
+        x: 8040
+        y: 3006
+        width: 186
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b750f2f5139d9500800000000000000
+      internalID: 404641264012646323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_11
+      rect:
+        serializedVersion: 2
+        x: 10108
+        y: 3006
+        width: 186
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11765716230ebc00800000000000000
+      internalID: 918174836165341469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_12
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1814
+        width: 186
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e6bb640a2ce2290800000000000000
+      internalID: -7913173501606138230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_13
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 1814
+        width: 186
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de95b69997b14f80800000000000000
+      internalID: -8124010382513299755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_14
+      rect:
+        serializedVersion: 2
+        x: 5972
+        y: 1814
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6446c191cb531590800000000000000
+      internalID: -7704713650568280982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_15
+      rect:
+        serializedVersion: 2
+        x: 8040
+        y: 1814
+        width: 186
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf9b144d98cc5300800000000000000
+      internalID: 242289057749245902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_16
+      rect:
+        serializedVersion: 2
+        x: 10108
+        y: 1814
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebf6a6aeeca1b0a0800000000000000
+      internalID: -6867517815765140508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_17
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 622
+        width: 186
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e29c4bb892bbe50800000000000000
+      internalID: 6826095340220395161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_18
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 622
+        width: 186
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acefe4338ed8e710800000000000000
+      internalID: 1722871512579435683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_19
+      rect:
+        serializedVersion: 2
+        x: 5972
+        y: 622
+        width: 186
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02849dedc038fda0800000000000000
+      internalID: -5910920849911414260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molcajete_20
+      rect:
+        serializedVersion: 2
+        x: 8040
+        y: 622
+        width: 186
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b99c77552b3db60800000000000000
+      internalID: 7769749862295903069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      molcajete_0: 2580122342670247677
+      molcajete_1: -5514473342016098030
+      molcajete_10: 404641264012646323
+      molcajete_11: 918174836165341469
+      molcajete_12: -7913173501606138230
+      molcajete_13: -8124010382513299755
+      molcajete_14: -7704713650568280982
+      molcajete_15: 242289057749245902
+      molcajete_16: -6867517815765140508
+      molcajete_17: 6826095340220395161
+      molcajete_18: 1722871512579435683
+      molcajete_19: -5910920849911414260
+      molcajete_2: 4363431356541294068
+      molcajete_20: 7769749862295903069
+      molcajete_3: 6731711977187406163
+      molcajete_4: -930419277273134122
+      molcajete_5: 1848506462455612631
+      molcajete_6: 5059545640317096906
+      molcajete_7: 7467421220431354313
+      molcajete_8: 7059852454882235788
+      molcajete_9: 2583046970184720133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
