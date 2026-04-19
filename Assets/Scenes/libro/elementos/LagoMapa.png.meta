@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 309297baf8f412a4f9e9b61eee527c67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8301729144173537888
+    second: SpriteSheet LagoMapa_0
+  - first:
+      213: -5983234659194876668
+    second: SpriteSheet LagoMapa_1
+  - first:
+      213: -7345806750517787364
+    second: SpriteSheet LagoMapa_2
+  - first:
+      213: -3723523290032535823
+    second: SpriteSheet LagoMapa_3
+  - first:
+      213: 7400247563460501886
+    second: SpriteSheet LagoMapa_4
+  - first:
+      213: 5684133684117716388
+    second: SpriteSheet LagoMapa_5
+  - first:
+      213: -3848952255216729573
+    second: SpriteSheet LagoMapa_6
+  - first:
+      213: 7712468846695217893
+    second: SpriteSheet LagoMapa_7
+  - first:
+      213: -4433656587804295185
+    second: SpriteSheet LagoMapa_8
+  - first:
+      213: -3310399420378295341
+    second: SpriteSheet LagoMapa_9
+  - first:
+      213: -775451007192919780
+    second: SpriteSheet LagoMapa_10
+  - first:
+      213: -5330943519123043253
+    second: SpriteSheet LagoMapa_11
+  - first:
+      213: -1338092184756001088
+    second: SpriteSheet LagoMapa_12
+  - first:
+      213: -4709253370353197015
+    second: SpriteSheet LagoMapa_13
+  - first:
+      213: -4627540401874616782
+    second: SpriteSheet LagoMapa_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_0
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 4334
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5570ce3555acc80800000000000000
+      internalID: -8301729144173537888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_1
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 4334
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d42ea27c747fca0800000000000000
+      internalID: -5983234659194876668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_2
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 4334
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1588be1ea37e0a90800000000000000
+      internalID: -7345806750517787364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_3
+      rect:
+        serializedVersion: 2
+        x: 7345
+        y: 4334
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f687b8bb43635cc0800000000000000
+      internalID: -3723523290032535823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_4
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 3142
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71630663f5f2b660800000000000000
+      internalID: 7400247563460501886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_5
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 3142
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad3ba9487912ee40800000000000000
+      internalID: 5684133684117716388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_6
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 3142
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b124e560156c59ac0800000000000000
+      internalID: -3848952255216729573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_7
+      rect:
+        serializedVersion: 2
+        x: 7345
+        y: 3142
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaf88cbd81380b60800000000000000
+      internalID: 7712468846695217893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_8
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1950
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefbadbe2dc7872c0800000000000000
+      internalID: -4433656587804295185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_9
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 1950
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d351b334491f02d0800000000000000
+      internalID: -3310399420378295341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_10
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 1950
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c111c8fda6b0d35f0800000000000000
+      internalID: -775451007192919780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_11
+      rect:
+        serializedVersion: 2
+        x: 7345
+        y: 1950
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c00092d1fa406b0800000000000000
+      internalID: -5330943519123043253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_12
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 758
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c664ea5f342e6de0800000000000000
+      internalID: -1338092184756001088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_13
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 758
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92069c6a20f55aeb0800000000000000
+      internalID: -4709253370353197015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet LagoMapa_14
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 758
+        width: 502
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ebe72b58ca7cfb0800000000000000
+      internalID: -4627540401874616782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteSheet LagoMapa_0: -8301729144173537888
+      SpriteSheet LagoMapa_1: -5983234659194876668
+      SpriteSheet LagoMapa_10: -775451007192919780
+      SpriteSheet LagoMapa_11: -5330943519123043253
+      SpriteSheet LagoMapa_12: -1338092184756001088
+      SpriteSheet LagoMapa_13: -4709253370353197015
+      SpriteSheet LagoMapa_14: -4627540401874616782
+      SpriteSheet LagoMapa_2: -7345806750517787364
+      SpriteSheet LagoMapa_3: -3723523290032535823
+      SpriteSheet LagoMapa_4: 7400247563460501886
+      SpriteSheet LagoMapa_5: 5684133684117716388
+      SpriteSheet LagoMapa_6: -3848952255216729573
+      SpriteSheet LagoMapa_7: 7712468846695217893
+      SpriteSheet LagoMapa_8: -4433656587804295185
+      SpriteSheet LagoMapa_9: -3310399420378295341
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

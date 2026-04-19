@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: 80c794b4cd107fe4280b1ce68a7f5473
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5596302996153197083
+    second: liquido de caldero_0
+  - first:
+      213: 2015522905349775337
+    second: liquido de caldero_1
+  - first:
+      213: 3151755076826096904
+    second: liquido de caldero_2
+  - first:
+      213: 3556854021463335098
+    second: liquido de caldero_3
+  - first:
+      213: 4041002578549467350
+    second: liquido de caldero_4
+  - first:
+      213: -3990073669216557534
+    second: liquido de caldero_5
+  - first:
+      213: -3919327474997924175
+    second: liquido de caldero_6
+  - first:
+      213: -7813179911798327582
+    second: liquido de caldero_7
+  - first:
+      213: 6949638961817340542
+    second: liquido de caldero_8
+  - first:
+      213: 1704889025553807676
+    second: liquido de caldero_9
+  - first:
+      213: -1312374807356946500
+    second: liquido de caldero_10
+  - first:
+      213: -1145906696653751511
+    second: liquido de caldero_11
+  - first:
+      213: -735235007343582227
+    second: liquido de caldero_12
+  - first:
+      213: 2891479625774697733
+    second: liquido de caldero_13
+  - first:
+      213: 5059865500797215917
+    second: liquido de caldero_14
+  - first:
+      213: -9100081646569908382
+    second: liquido de caldero_15
+  - first:
+      213: -4556689475264919860
+    second: liquido de caldero_16
+  - first:
+      213: -7112994228986849235
+    second: liquido de caldero_17
+  - first:
+      213: 2448941156729246844
+    second: liquido de caldero_18
+  - first:
+      213: 5793929033334850593
+    second: liquido de caldero_19
+  - first:
+      213: -4486987334193138442
+    second: liquido de caldero_20
+  - first:
+      213: -8159757100892331866
+    second: liquido de caldero_21
+  - first:
+      213: -4449660923102239830
+    second: liquido de caldero_22
+  - first:
+      213: 7033657954299884493
+    second: liquido de caldero_23
+  - first:
+      213: 3250554263540534595
+    second: liquido de caldero_24
+  - first:
+      213: 8317010694362620157
+    second: liquido de caldero_25
+  - first:
+      213: -6567953280710970519
+    second: liquido de caldero_26
+  - first:
+      213: -2422270592988061138
+    second: liquido de caldero_27
+  - first:
+      213: -4900652304324487758
+    second: liquido de caldero_28
+  - first:
+      213: 493938140299531768
+    second: liquido de caldero_29
+  - first:
+      213: 5065852669018014001
+    second: liquido de caldero_30
+  - first:
+      213: 3091277661736378037
+    second: liquido de caldero_31
+  - first:
+      213: -2091579631990971598
+    second: liquido de caldero_32
+  - first:
+      213: -6715449689721402655
+    second: liquido de caldero_33
+  - first:
+      213: 813184455432095272
+    second: liquido de caldero_34
+  - first:
+      213: -6107573557154288729
+    second: liquido de caldero_35
+  - first:
+      213: 4434899257675123926
+    second: liquido de caldero_36
+  - first:
+      213: -5120445404396314785
+    second: liquido de caldero_37
+  - first:
+      213: 1187831060901155170
+    second: liquido de caldero_38
+  - first:
+      213: 6315614179052778277
+    second: liquido de caldero_39
+  - first:
+      213: -927933006814052827
+    second: liquido de caldero_40
+  - first:
+      213: 8176487504860493985
+    second: liquido de caldero_41
+  - first:
+      213: 4480209275651823837
+    second: liquido de caldero_42
+  - first:
+      213: 623940779649543103
+    second: liquido de caldero_43
+  - first:
+      213: -6677717995918920698
+    second: liquido de caldero_44
+  - first:
+      213: 7746730461131297969
+    second: liquido de caldero_45
+  - first:
+      213: 5508978129343845794
+    second: liquido de caldero_46
+  - first:
+      213: 5838264848833281772
+    second: liquido de caldero_47
+  - first:
+      213: 2064832984314962224
+    second: liquido de caldero_48
+  - first:
+      213: 3197649648821261513
+    second: liquido de caldero_49
+  - first:
+      213: -3453844196566643520
+    second: liquido de caldero_50
+  - first:
+      213: 6503001959047636189
+    second: liquido de caldero_51
+  - first:
+      213: -761688943478262809
+    second: liquido de caldero_52
+  - first:
+      213: -4765117523249983754
+    second: liquido de caldero_53
+  - first:
+      213: 6336430014304142301
+    second: liquido de caldero_54
+  - first:
+      213: 3722597572658066038
+    second: liquido de caldero_55
+  - first:
+      213: -8297247668435970768
+    second: liquido de caldero_56
+  - first:
+      213: -1724192586217897089
+    second: liquido de caldero_57
+  - first:
+      213: 4297261332029908906
+    second: liquido de caldero_58
+  - first:
+      213: 1554259425788515398
+    second: liquido de caldero_59
+  - first:
+      213: -4076327883467252603
+    second: liquido de caldero_60
+  - first:
+      213: -6326027760078690343
+    second: liquido de caldero_61
+  - first:
+      213: 4475549581898816110
+    second: liquido de caldero_62
+  - first:
+      213: -4180747230731554348
+    second: liquido de caldero_63
+  - first:
+      213: 7755261311621293776
+    second: liquido de caldero_64
+  - first:
+      213: 912335386186244147
+    second: liquido de caldero_65
+  - first:
+      213: -2099708130184393725
+    second: liquido de caldero_66
+  - first:
+      213: -2476361562317491300
+    second: liquido de caldero_67
+  - first:
+      213: -7857266834165356268
+    second: liquido de caldero_68
+  - first:
+      213: -6061120047172821911
+    second: liquido de caldero_69
+  - first:
+      213: 5959429413777425105
+    second: liquido de caldero_70
+  - first:
+      213: 4056967005398529389
+    second: liquido de caldero_71
+  - first:
+      213: -6497324844331131429
+    second: liquido de caldero_72
+  - first:
+      213: -2192983275382046614
+    second: liquido de caldero_73
+  - first:
+      213: 8852984878848212661
+    second: liquido de caldero_74
+  - first:
+      213: 3577372163501598613
+    second: liquido de caldero_75
+  - first:
+      213: -1516966867888813088
+    second: liquido de caldero_76
+  - first:
+      213: -3029698366667041303
+    second: liquido de caldero_77
+  - first:
+      213: 4444517776128755273
+    second: liquido de caldero_78
+  - first:
+      213: -1521396263461941633
+    second: liquido de caldero_79
+  - first:
+      213: -8986419963871927629
+    second: liquido de caldero_80
+  - first:
+      213: 3263772877236519952
+    second: liquido de caldero_81
+  - first:
+      213: -2292920449935054539
+    second: liquido de caldero_82
+  - first:
+      213: 1528109601826642423
+    second: liquido de caldero_83
+  - first:
+      213: 6908197958772286477
+    second: liquido de caldero_84
+  - first:
+      213: -674719288371858030
+    second: liquido de caldero_85
+  - first:
+      213: 6463200516578603880
+    second: liquido de caldero_86
+  - first:
+      213: -4295661276859987215
+    second: liquido de caldero_87
+  - first:
+      213: 5117588570139600210
+    second: liquido de caldero_88
+  - first:
+      213: -6397634455105809724
+    second: liquido de caldero_89
+  - first:
+      213: -3107616582425287773
+    second: liquido de caldero_90
+  - first:
+      213: 6973904803877273519
+    second: liquido de caldero_91
+  - first:
+      213: 6232633818282660435
+    second: liquido de caldero_92
+  - first:
+      213: -9150716362996418496
+    second: liquido de caldero_93
+  - first:
+      213: -4376970601091274509
+    second: liquido de caldero_94
+  - first:
+      213: -5557275742190735624
+    second: liquido de caldero_95
+  - first:
+      213: -6765327474295485572
+    second: liquido de caldero_96
+  - first:
+      213: -5612577950635024637
+    second: liquido de caldero_97
+  - first:
+      213: -846280359102444210
+    second: liquido de caldero_98
+  - first:
+      213: -7028243660803799754
+    second: liquido de caldero_99
+  - first:
+      213: -7380609741409028519
+    second: liquido de caldero_100
+  - first:
+      213: 2463107538659153655
+    second: liquido de caldero_101
+  - first:
+      213: 3584619225414488896
+    second: liquido de caldero_102
+  - first:
+      213: -5209878605744721324
+    second: liquido de caldero_103
+  - first:
+      213: 4005319971221121129
+    second: liquido de caldero_104
+  - first:
+      213: -6943905685603647824
+    second: liquido de caldero_105
+  - first:
+      213: 8793429631477306100
+    second: liquido de caldero_106
+  - first:
+      213: 9101024046537966674
+    second: liquido de caldero_107
+  - first:
+      213: 8853067037016276958
+    second: liquido de caldero_108
+  - first:
+      213: -6122857637940805746
+    second: liquido de caldero_109
+  - first:
+      213: 5214243885926406721
+    second: liquido de caldero_110
+  - first:
+      213: 2661489695511201947
+    second: liquido de caldero_111
+  - first:
+      213: 1559725375910853655
+    second: liquido de caldero_112
+  - first:
+      213: -4684891854311497959
+    second: liquido de caldero_113
+  - first:
+      213: -1576460791728824373
+    second: liquido de caldero_114
+  - first:
+      213: -7134613715662536327
+    second: liquido de caldero_115
+  - first:
+      213: 994168001750521950
+    second: liquido de caldero_116
+  - first:
+      213: -277873216124083822
+    second: liquido de caldero_117
+  - first:
+      213: -6295422536014210443
+    second: liquido de caldero_118
+  - first:
+      213: -2237204242890733883
+    second: liquido de caldero_119
+  - first:
+      213: 6227659420773032802
+    second: liquido de caldero_120
+  - first:
+      213: 2057739337208163329
+    second: liquido de caldero_121
+  - first:
+      213: -2130842920091039301
+    second: liquido de caldero_122
+  - first:
+      213: -1779620517371865796
+    second: liquido de caldero_123
+  - first:
+      213: 5823296309805372694
+    second: liquido de caldero_124
+  - first:
+      213: -1057183726386562100
+    second: liquido de caldero_125
+  - first:
+      213: -8977495501172826236
+    second: liquido de caldero_126
+  - first:
+      213: -3889943984871865551
+    second: liquido de caldero_127
+  - first:
+      213: -8736372458862090648
+    second: liquido de caldero_128
+  - first:
+      213: -4969144762588802090
+    second: liquido de caldero_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: liquido de caldero_0
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 3736
+        width: 753
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b126a2dacef0aad40800000000000000
+      internalID: 5596302996153197083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_1
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 3736
+        width: 753
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef590a576398fb10800000000000000
+      internalID: 2015522905349775337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_3
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 3736
+        width: 744
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0ed3333eb7c5130800000000000000
+      internalID: 3556854021463335098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_5
+      rect:
+        serializedVersion: 2
+        x: 6873
+        y: 3736
+        width: 744
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22625be532960a8c0800000000000000
+      internalID: -3990073669216557534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_7
+      rect:
+        serializedVersion: 2
+        x: 8941
+        y: 3736
+        width: 744
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6fa072442029390800000000000000
+      internalID: -7813179911798327582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_30
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2544
+        width: 744
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131884599268d4640800000000000000
+      internalID: 5065852669018014001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_32
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 2544
+        width: 744
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2336cb7086739f2e0800000000000000
+      internalID: -2091579631990971598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_34
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 2544
+        width: 744
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82646ea24f2094b00800000000000000
+      internalID: 813184455432095272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_47
+      rect:
+        serializedVersion: 2
+        x: 6873
+        y: 2544
+        width: 744
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee7b5392fea50150800000000000000
+      internalID: 5838264848833281772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_50
+      rect:
+        serializedVersion: 2
+        x: 8941
+        y: 2544
+        width: 744
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccc912a00b7110d0800000000000000
+      internalID: -3453844196566643520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_78
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1352
+        width: 744
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946401c8e591ead30800000000000000
+      internalID: 4444517776128755273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_81
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 1352
+        width: 744
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014cc3fb3204b4d20800000000000000
+      internalID: 3263772877236519952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_84
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 1352
+        width: 744
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0463ba3179dedf50800000000000000
+      internalID: 6908197958772286477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_87
+      rect:
+        serializedVersion: 2
+        x: 6873
+        y: 1352
+        width: 744
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa0c5df3deb264c0800000000000000
+      internalID: -4295661276859987215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_90
+      rect:
+        serializedVersion: 2
+        x: 8941
+        y: 1352
+        width: 744
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a36d62ee278fd4d0800000000000000
+      internalID: -3107616582425287773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_114
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 160
+        width: 744
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf1caa23494f1ae0800000000000000
+      internalID: -1576460791728824373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_117
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 160
+        width: 744
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291245c38cbc42cf0800000000000000
+      internalID: -277873216124083822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liquido de caldero_120
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 160
+        width: 744
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263aa456f371d6650800000000000000
+      internalID: 6227659420773032802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3a395aeff8cadb74dbae5e85a9786e43
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      liquido de caldero_0: 5596302996153197083
+      liquido de caldero_1: 2015522905349775337
+      liquido de caldero_10: -1312374807356946500
+      liquido de caldero_100: -7380609741409028519
+      liquido de caldero_101: 2463107538659153655
+      liquido de caldero_102: 3584619225414488896
+      liquido de caldero_103: -5209878605744721324
+      liquido de caldero_104: 4005319971221121129
+      liquido de caldero_105: -6943905685603647824
+      liquido de caldero_106: 8793429631477306100
+      liquido de caldero_107: 9101024046537966674
+      liquido de caldero_108: 8853067037016276958
+      liquido de caldero_109: -6122857637940805746
+      liquido de caldero_11: -1145906696653751511
+      liquido de caldero_110: 5214243885926406721
+      liquido de caldero_111: 2661489695511201947
+      liquido de caldero_112: 1559725375910853655
+      liquido de caldero_113: -4684891854311497959
+      liquido de caldero_114: -1576460791728824373
+      liquido de caldero_115: -7134613715662536327
+      liquido de caldero_116: 994168001750521950
+      liquido de caldero_117: -277873216124083822
+      liquido de caldero_118: -6295422536014210443
+      liquido de caldero_119: -2237204242890733883
+      liquido de caldero_12: -735235007343582227
+      liquido de caldero_120: 6227659420773032802
+      liquido de caldero_121: 2057739337208163329
+      liquido de caldero_122: -2130842920091039301
+      liquido de caldero_123: -1779620517371865796
+      liquido de caldero_124: 5823296309805372694
+      liquido de caldero_125: -1057183726386562100
+      liquido de caldero_126: -8977495501172826236
+      liquido de caldero_127: -3889943984871865551
+      liquido de caldero_128: -8736372458862090648
+      liquido de caldero_129: -4969144762588802090
+      liquido de caldero_13: 2891479625774697733
+      liquido de caldero_14: 5059865500797215917
+      liquido de caldero_15: -9100081646569908382
+      liquido de caldero_16: -4556689475264919860
+      liquido de caldero_17: -7112994228986849235
+      liquido de caldero_18: 2448941156729246844
+      liquido de caldero_19: 5793929033334850593
+      liquido de caldero_2: 3151755076826096904
+      liquido de caldero_20: -4486987334193138442
+      liquido de caldero_21: -8159757100892331866
+      liquido de caldero_22: -4449660923102239830
+      liquido de caldero_23: 7033657954299884493
+      liquido de caldero_24: 3250554263540534595
+      liquido de caldero_25: 8317010694362620157
+      liquido de caldero_26: -6567953280710970519
+      liquido de caldero_27: -2422270592988061138
+      liquido de caldero_28: -4900652304324487758
+      liquido de caldero_29: 493938140299531768
+      liquido de caldero_3: 3556854021463335098
+      liquido de caldero_30: 5065852669018014001
+      liquido de caldero_31: 3091277661736378037
+      liquido de caldero_32: -2091579631990971598
+      liquido de caldero_33: -6715449689721402655
+      liquido de caldero_34: 813184455432095272
+      liquido de caldero_35: -6107573557154288729
+      liquido de caldero_36: 4434899257675123926
+      liquido de caldero_37: -5120445404396314785
+      liquido de caldero_38: 1187831060901155170
+      liquido de caldero_39: 6315614179052778277
+      liquido de caldero_4: 4041002578549467350
+      liquido de caldero_40: -927933006814052827
+      liquido de caldero_41: 8176487504860493985
+      liquido de caldero_42: 4480209275651823837
+      liquido de caldero_43: 623940779649543103
+      liquido de caldero_44: -6677717995918920698
+      liquido de caldero_45: 7746730461131297969
+      liquido de caldero_46: 5508978129343845794
+      liquido de caldero_47: 5838264848833281772
+      liquido de caldero_48: 2064832984314962224
+      liquido de caldero_49: 3197649648821261513
+      liquido de caldero_5: -3990073669216557534
+      liquido de caldero_50: -3453844196566643520
+      liquido de caldero_51: 6503001959047636189
+      liquido de caldero_52: -761688943478262809
+      liquido de caldero_53: -4765117523249983754
+      liquido de caldero_54: 6336430014304142301
+      liquido de caldero_55: 3722597572658066038
+      liquido de caldero_56: -8297247668435970768
+      liquido de caldero_57: -1724192586217897089
+      liquido de caldero_58: 4297261332029908906
+      liquido de caldero_59: 1554259425788515398
+      liquido de caldero_6: -3919327474997924175
+      liquido de caldero_60: -4076327883467252603
+      liquido de caldero_61: -6326027760078690343
+      liquido de caldero_62: 4475549581898816110
+      liquido de caldero_63: -4180747230731554348
+      liquido de caldero_64: 7755261311621293776
+      liquido de caldero_65: 912335386186244147
+      liquido de caldero_66: -2099708130184393725
+      liquido de caldero_67: -2476361562317491300
+      liquido de caldero_68: -7857266834165356268
+      liquido de caldero_69: -6061120047172821911
+      liquido de caldero_7: -7813179911798327582
+      liquido de caldero_70: 5959429413777425105
+      liquido de caldero_71: 4056967005398529389
+      liquido de caldero_72: -6497324844331131429
+      liquido de caldero_73: -2192983275382046614
+      liquido de caldero_74: 8852984878848212661
+      liquido de caldero_75: 3577372163501598613
+      liquido de caldero_76: -1516966867888813088
+      liquido de caldero_77: -3029698366667041303
+      liquido de caldero_78: 4444517776128755273
+      liquido de caldero_79: -1521396263461941633
+      liquido de caldero_8: 6949638961817340542
+      liquido de caldero_80: -8986419963871927629
+      liquido de caldero_81: 3263772877236519952
+      liquido de caldero_82: -2292920449935054539
+      liquido de caldero_83: 1528109601826642423
+      liquido de caldero_84: 6908197958772286477
+      liquido de caldero_85: -674719288371858030
+      liquido de caldero_86: 6463200516578603880
+      liquido de caldero_87: -4295661276859987215
+      liquido de caldero_88: 5117588570139600210
+      liquido de caldero_89: -6397634455105809724
+      liquido de caldero_9: 1704889025553807676
+      liquido de caldero_90: -3107616582425287773
+      liquido de caldero_91: 6973904803877273519
+      liquido de caldero_92: 6232633818282660435
+      liquido de caldero_93: -9150716362996418496
+      liquido de caldero_94: -4376970601091274509
+      liquido de caldero_95: -5557275742190735624
+      liquido de caldero_96: -6765327474295485572
+      liquido de caldero_97: -5612577950635024637
+      liquido de caldero_98: -846280359102444210
+      liquido de caldero_99: -7028243660803799754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

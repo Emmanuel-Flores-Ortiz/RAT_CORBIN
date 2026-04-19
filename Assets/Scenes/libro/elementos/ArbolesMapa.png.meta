@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 2d22cede0b64ce047bb8d5c626f65f11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2469654764296012400
+    second: ArbolesMapa_0
+  - first:
+      213: 422158308846567821
+    second: ArbolesMapa_1
+  - first:
+      213: -341436531292460637
+    second: ArbolesMapa_2
+  - first:
+      213: 1952825039121093163
+    second: ArbolesMapa_3
+  - first:
+      213: 285793899614340496
+    second: ArbolesMapa_4
+  - first:
+      213: -1585498723156072005
+    second: ArbolesMapa_5
+  - first:
+      213: -8526190214095851581
+    second: ArbolesMapa_6
+  - first:
+      213: -4795937623038337151
+    second: ArbolesMapa_7
+  - first:
+      213: 3573824508070876520
+    second: ArbolesMapa_8
+  - first:
+      213: 7233865734740308070
+    second: ArbolesMapa_9
+  - first:
+      213: -4909074436343398336
+    second: ArbolesMapa_10
+  - first:
+      213: 6644809080174360766
+    second: ArbolesMapa_11
+  - first:
+      213: -973875377737441059
+    second: ArbolesMapa_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArbolesMapa_0
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4352
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09df840a3160abdd0800000000000000
+      internalID: -2469654764296012400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_1
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 4352
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8187c5cebecbd500800000000000000
+      internalID: 422158308846567821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_2
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 4352
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9a8f6a849f24bf0800000000000000
+      internalID: -341436531292460637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_3
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 4352
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b221d4dc604d91b10800000000000000
+      internalID: 1952825039121093163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3160
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0958c79990857f300800000000000000
+      internalID: 285793899614340496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_5
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 3160
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb96276cf4d2ff9e0800000000000000
+      internalID: -1585498723156072005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_6
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 3160
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfa7698c23eca980800000000000000
+      internalID: -8526190214095851581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_7
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 3160
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f5edd4428617db0800000000000000
+      internalID: -4795937623038337151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1968
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86556258476c89130800000000000000
+      internalID: 3573824508070876520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_9
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1968
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660f0102f8ad36460800000000000000
+      internalID: 7233865734740308070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_10
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 1968
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0400dcd3fc67fdbb0800000000000000
+      internalID: -4909074436343398336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_11
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 1968
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8351817aa173c50800000000000000
+      internalID: 6644809080174360766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArbolesMapa_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 776
+        width: 400
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0e576f0891c72f0800000000000000
+      internalID: -973875377737441059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ArbolesMapa_0: -2469654764296012400
+      ArbolesMapa_1: 422158308846567821
+      ArbolesMapa_10: -4909074436343398336
+      ArbolesMapa_11: 6644809080174360766
+      ArbolesMapa_12: -973875377737441059
+      ArbolesMapa_2: -341436531292460637
+      ArbolesMapa_3: 1952825039121093163
+      ArbolesMapa_4: 285793899614340496
+      ArbolesMapa_5: -1585498723156072005
+      ArbolesMapa_6: -8526190214095851581
+      ArbolesMapa_7: -4795937623038337151
+      ArbolesMapa_8: 3573824508070876520
+      ArbolesMapa_9: 7233865734740308070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
