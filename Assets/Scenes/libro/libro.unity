@@ -1285,19 +1285,19 @@ MonoBehaviour:
   animaciones:
   - nombreIdentificador: 
     animator: {fileID: 244592107}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 1123084847}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 2138913045}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 243298834}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 1139225102}
-    play: 0
+    play: 1
 --- !u!4 &1824027742
 Transform:
   m_ObjectHideFlags: 0

@@ -1716,22 +1716,22 @@ MonoBehaviour:
   animaciones:
   - nombreIdentificador: 
     animator: {fileID: 1186088348}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 934341615}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 270141893}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 2063437138}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 1775536854}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 1700044044}
-    play: 0
+    play: 1
 --- !u!4 &2046660755
 Transform:
   m_ObjectHideFlags: 0

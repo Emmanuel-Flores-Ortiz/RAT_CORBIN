@@ -2039,31 +2039,31 @@ MonoBehaviour:
   animaciones:
   - nombreIdentificador: 
     animator: {fileID: 378555222}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 850955290}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 1822428352}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 1829756783}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 1847114743}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 316249068}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 1982787605}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 2366796}
-    play: 0
+    play: 1
   - nombreIdentificador: 
     animator: {fileID: 1328456811}
-    play: 0
+    play: 1
 --- !u!4 &2137351657
 Transform:
   m_ObjectHideFlags: 0
