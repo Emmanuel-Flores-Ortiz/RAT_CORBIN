@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 9d3f99602dd288546b6c6ce0783f24ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8684444769491407769
+    second: SpriteSheet Vela_0
+  - first:
+      213: 3094649860423534558
+    second: SpriteSheet Vela_1
+  - first:
+      213: 4014535351800431002
+    second: SpriteSheet Vela_2
+  - first:
+      213: 7508565132592032209
+    second: SpriteSheet Vela_3
+  - first:
+      213: 1942156461525798600
+    second: SpriteSheet Vela_4
+  - first:
+      213: -8168552557463815313
+    second: SpriteSheet Vela_5
+  - first:
+      213: 2198101200557639586
+    second: SpriteSheet Vela_6
+  - first:
+      213: 3507219158220672619
+    second: SpriteSheet Vela_7
+  - first:
+      213: 2503485196791221126
+    second: SpriteSheet Vela_8
+  - first:
+      213: -3603342871299392888
+    second: SpriteSheet Vela_9
+  - first:
+      213: 8598413564713428126
+    second: SpriteSheet Vela_10
+  - first:
+      213: 9198353557291235041
+    second: SpriteSheet Vela_11
+  - first:
+      213: -2658344374467995387
+    second: SpriteSheet Vela_12
+  - first:
+      213: 7071405492069294087
+    second: SpriteSheet Vela_13
+  - first:
+      213: 3725801115078021380
+    second: SpriteSheet Vela_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet Vela_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3700
+        width: 181
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993d8057188558870800000000000000
+      internalID: 8684444769491407769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_1
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 3700
+        width: 181
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7c1c2e6a762fa20800000000000000
+      internalID: 3094649860423534558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_2
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 3700
+        width: 181
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91005ee1ae76b730800000000000000
+      internalID: 4014535351800431002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_3
+      rect:
+        serializedVersion: 2
+        x: 6287
+        y: 3700
+        width: 181
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9280db438c33860800000000000000
+      internalID: 7508565132592032209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2508
+        width: 181
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce8973030de3fa10800000000000000
+      internalID: 1942156461525798600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_5
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2508
+        width: 181
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bb2435ab873ae80800000000000000
+      internalID: -8168552557463815313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_6
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 2508
+        width: 181
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a709975569318e10800000000000000
+      internalID: 2198101200557639586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_7
+      rect:
+        serializedVersion: 2
+        x: 6287
+        y: 2508
+        width: 181
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e003b0e352ca030800000000000000
+      internalID: 3507219158220672619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1316
+        width: 181
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b803fb58a2eb220800000000000000
+      internalID: 2503485196791221126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_9
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1316
+        width: 181
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a7348ffba5efdc0800000000000000
+      internalID: -3603342871299392888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_10
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 1316
+        width: 181
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94e4aca493b35770800000000000000
+      internalID: 8598413564713428126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_11
+      rect:
+        serializedVersion: 2
+        x: 6287
+        y: 1316
+        width: 181
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e67bcc43dd17af70800000000000000
+      internalID: 9198353557291235041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 124
+        width: 181
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5095d2d30e9ab1bd0800000000000000
+      internalID: -2658344374467995387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_13
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 124
+        width: 181
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700698144dda22260800000000000000
+      internalID: 7071405492069294087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Vela_14
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 124
+        width: 181
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401daffbf54b4b330800000000000000
+      internalID: 3725801115078021380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteSheet Vela_0: 8684444769491407769
+      SpriteSheet Vela_1: 3094649860423534558
+      SpriteSheet Vela_10: 8598413564713428126
+      SpriteSheet Vela_11: 9198353557291235041
+      SpriteSheet Vela_12: -2658344374467995387
+      SpriteSheet Vela_13: 7071405492069294087
+      SpriteSheet Vela_14: 3725801115078021380
+      SpriteSheet Vela_2: 4014535351800431002
+      SpriteSheet Vela_3: 7508565132592032209
+      SpriteSheet Vela_4: 1942156461525798600
+      SpriteSheet Vela_5: -8168552557463815313
+      SpriteSheet Vela_6: 2198101200557639586
+      SpriteSheet Vela_7: 3507219158220672619
+      SpriteSheet Vela_8: 2503485196791221126
+      SpriteSheet Vela_9: -3603342871299392888
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

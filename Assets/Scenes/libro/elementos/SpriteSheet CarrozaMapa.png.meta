@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: bd71a88186da71e4c98b021f4feedc20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6492387232433833354
+    second: SpriteSheet CarrozaMapa_0
+  - first:
+      213: -7423228613885134002
+    second: SpriteSheet CarrozaMapa_1
+  - first:
+      213: 5615018270007736565
+    second: SpriteSheet CarrozaMapa_2
+  - first:
+      213: -7998654871628383118
+    second: SpriteSheet CarrozaMapa_3
+  - first:
+      213: 4864580520989606366
+    second: SpriteSheet CarrozaMapa_4
+  - first:
+      213: 7939039879512122883
+    second: SpriteSheet CarrozaMapa_5
+  - first:
+      213: -4967395810985226731
+    second: SpriteSheet CarrozaMapa_6
+  - first:
+      213: -7964260233782432624
+    second: SpriteSheet CarrozaMapa_7
+  - first:
+      213: -961633768566401688
+    second: SpriteSheet CarrozaMapa_8
+  - first:
+      213: -6315745528939447921
+    second: SpriteSheet CarrozaMapa_9
+  - first:
+      213: 3261684927298847489
+    second: SpriteSheet CarrozaMapa_10
+  - first:
+      213: -83167139268312930
+    second: SpriteSheet CarrozaMapa_11
+  - first:
+      213: -2689677518694953652
+    second: SpriteSheet CarrozaMapa_12
+  - first:
+      213: 5074770734788273751
+    second: SpriteSheet CarrozaMapa_13
+  - first:
+      213: 2983298088581743743
+    second: SpriteSheet CarrozaMapa_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_0
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3766
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aff72d53866e5a0800000000000000
+      internalID: -6492387232433833354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_1
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 3766
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b7cd6d7e46bf890800000000000000
+      internalID: -7423228613885134002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_2
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 3766
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8b32fed5d8ced40800000000000000
+      internalID: 5615018270007736565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_3
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 3767
+        width: 124
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c74afd5c11ff090800000000000000
+      internalID: -7998654871628383118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_4
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2574
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1cedec536728340800000000000000
+      internalID: 4864580520989606366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_5
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 2575
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306eaf325b22d2e60800000000000000
+      internalID: 7939039879512122883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_6
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 2574
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e467b04d3401bb0800000000000000
+      internalID: -4967395810985226731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_7
+      rect:
+        serializedVersion: 2
+        x: 6882
+        y: 2574
+        width: 124
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ce0aa8383497190800000000000000
+      internalID: -7964260233782432624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1382
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8655494be2797a2f0800000000000000
+      internalID: -961633768566401688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_9
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 1383
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f897dc757e6f958a0800000000000000
+      internalID: -6315745528939447921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_10
+      rect:
+        serializedVersion: 2
+        x: 4723
+        y: 1382
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103c4e40925d34d20800000000000000
+      internalID: 3261684927298847489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_11
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 1383
+        width: 124
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e904dee6de788def0800000000000000
+      internalID: -83167139268312930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_12
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 190
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d45d91c885caad0800000000000000
+      internalID: -2689677518694953652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_13
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 190
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7566a9398153d6640800000000000000
+      internalID: 5074770734788273751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet CarrozaMapa_14
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 190
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74440d2ecdc66920800000000000000
+      internalID: 2983298088581743743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteSheet CarrozaMapa_0: -6492387232433833354
+      SpriteSheet CarrozaMapa_1: -7423228613885134002
+      SpriteSheet CarrozaMapa_10: 3261684927298847489
+      SpriteSheet CarrozaMapa_11: -83167139268312930
+      SpriteSheet CarrozaMapa_12: -2689677518694953652
+      SpriteSheet CarrozaMapa_13: 5074770734788273751
+      SpriteSheet CarrozaMapa_14: 2983298088581743743
+      SpriteSheet CarrozaMapa_2: 5615018270007736565
+      SpriteSheet CarrozaMapa_3: -7998654871628383118
+      SpriteSheet CarrozaMapa_4: 4864580520989606366
+      SpriteSheet CarrozaMapa_5: 7939039879512122883
+      SpriteSheet CarrozaMapa_6: -4967395810985226731
+      SpriteSheet CarrozaMapa_7: -7964260233782432624
+      SpriteSheet CarrozaMapa_8: -961633768566401688
+      SpriteSheet CarrozaMapa_9: -6315745528939447921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

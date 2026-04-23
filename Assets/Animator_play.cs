@@ -1,35 +1,33 @@
 using UnityEngine;
+using System; // Necesario para [Serializable]
 
-public class Animator_play : MonoBehaviour
+public class AnimationManager : MonoBehaviour
 {
-    [Header("Animators de las imágenes")]
-    [SerializeField] private Animator[] animators;
+    // Creamos una estructura de datos personalizada
+    [Serializable]
+    public class AnimationControl
+    {
+        public string nombreIdentificador; // Para que sepas de quién es el botón
+        public Animator animator;
+        public bool play;
+    }
 
-    [Header("Nombre del parámetro en el Animator")]
+    [Header("Configuración de Animaciones")]
     [SerializeField] private string parameterName = "play";
 
-    [Header("Activar animaciones")]
-    [SerializeField] private bool playAnimations = true;
-
-    void Start()
-    {
-        UpdateAnimators();
-    }
+    // Ahora el arreglo no es de Animators, sino de nuestra clase personalizada
+    [SerializeField] private AnimationControl[] animaciones;
 
     void Update()
     {
-        UpdateAnimators();
-    }
+        if (animaciones == null || animaciones.Length == 0) return;
 
-    private void UpdateAnimators()
-    {
-        if (animators == null || animators.Length == 0) return;
-
-        foreach (Animator anim in animators)
+        foreach (AnimationControl item in animaciones)
         {
-            if (anim != null)
+            if (item.animator != null)
             {
-                anim.SetBool(parameterName, playAnimations);
+                // Cada animator recibe su propio valor de 'play'
+                item.animator.SetBool(parameterName, item.play);
             }
         }
     }

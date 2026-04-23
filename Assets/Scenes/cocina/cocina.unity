@@ -1393,13 +1393,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a437666abf844f4ba57caf69c1400a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Animator_play
-  animators:
-  - {fileID: 1186088348}
-  - {fileID: 934341615}
-  - {fileID: 270141893}
-  - {fileID: 2063437138}
   parameterName: play
-  playAnimations: 1
+  animaciones:
+  - nombreIdentificador: 
+    animator: {fileID: 1186088348}
+    play: 0
+  - nombreIdentificador: 
+    animator: {fileID: 934341615}
+    play: 0
+  - nombreIdentificador: 
+    animator: {fileID: 270141893}
+    play: 0
+  - nombreIdentificador: 
+    animator: {fileID: 2063437138}
+    play: 0
 --- !u!4 &2046660755
 Transform:
   m_ObjectHideFlags: 0
