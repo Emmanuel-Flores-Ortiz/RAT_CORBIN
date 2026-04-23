@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 75c99b4adadb9394d850e236407b45f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8893229322131722397
+    second: "SpriteSheet Monta\xF1aMapa_0"
+  - first:
+      213: -8441677149348361762
+    second: "SpriteSheet Monta\xF1aMapa_1"
+  - first:
+      213: -879757858341750997
+    second: "SpriteSheet Monta\xF1aMapa_2"
+  - first:
+      213: 979080809525329136
+    second: "SpriteSheet Monta\xF1aMapa_3"
+  - first:
+      213: -3711883672064926101
+    second: "SpriteSheet Monta\xF1aMapa_4"
+  - first:
+      213: 8235198462856794110
+    second: "SpriteSheet Monta\xF1aMapa_5"
+  - first:
+      213: 2061568255985507867
+    second: "SpriteSheet Monta\xF1aMapa_6"
+  - first:
+      213: -4958994254204006106
+    second: "SpriteSheet Monta\xF1aMapa_7"
+  - first:
+      213: 7781938138422269141
+    second: "SpriteSheet Monta\xF1aMapa_8"
+  - first:
+      213: -8401071725905186848
+    second: "SpriteSheet Monta\xF1aMapa_9"
+  - first:
+      213: -8708203737057530758
+    second: "SpriteSheet Monta\xF1aMapa_10"
+  - first:
+      213: 2498215818518016287
+    second: "SpriteSheet Monta\xF1aMapa_11"
+  - first:
+      213: 6297033486445920256
+    second: "SpriteSheet Monta\xF1aMapa_12"
+  - first:
+      213: 5364362944698598962
+    second: "SpriteSheet Monta\xF1aMapa_13"
+  - first:
+      213: -2132220807522321112
+    second: "SpriteSheet Monta\xF1aMapa_14"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_0"
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 3905
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f2044cc07e49480800000000000000
+      internalID: -8893229322131722397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_1"
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 3905
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed90f8ccb5329da80800000000000000
+      internalID: -8441677149348361762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_2"
+      rect:
+        serializedVersion: 2
+        x: 5233
+        y: 3905
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b277e2593e87ac3f0800000000000000
+      internalID: -879757858341750997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_3"
+      rect:
+        serializedVersion: 2
+        x: 7301
+        y: 3905
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcb8221fc4669d00800000000000000
+      internalID: 979080809525329136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_4"
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 2713
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e5ff6777dbc7cc0800000000000000
+      internalID: -3711883672064926101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_5"
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 2713
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff0c69be5d494270800000000000000
+      internalID: 8235198462856794110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_6"
+      rect:
+        serializedVersion: 2
+        x: 5233
+        y: 2713
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1edc3af7692c9c10800000000000000
+      internalID: 2061568255985507867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_7"
+      rect:
+        serializedVersion: 2
+        x: 7301
+        y: 2713
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62197faeffc1e2bb0800000000000000
+      internalID: -4958994254204006106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_8"
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1521
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d459b4a18ffefb60800000000000000
+      internalID: 7781938138422269141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_9"
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 1521
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efe7dca6c5696b80800000000000000
+      internalID: -8401071725905186848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_10"
+      rect:
+        serializedVersion: 2
+        x: 5233
+        y: 1521
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ce4f4d6de362780800000000000000
+      internalID: -8708203737057530758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_11"
+      rect:
+        serializedVersion: 2
+        x: 7301
+        y: 1521
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1137030d027ba220800000000000000
+      internalID: 2498215818518016287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_12"
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 329
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0004952c79e836750800000000000000
+      internalID: 6297033486445920256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_13"
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 329
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23647053dab027a40800000000000000
+      internalID: 5364362944698598962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteSheet Monta\xF1aMapa_14"
+      rect:
+        serializedVersion: 2
+        x: 5233
+        y: 329
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d7fe8f874d862e0800000000000000
+      internalID: -2132220807522321112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "SpriteSheet Monta\xF1aMapa_0": -8893229322131722397
+      "SpriteSheet Monta\xF1aMapa_1": -8441677149348361762
+      "SpriteSheet Monta\xF1aMapa_10": -8708203737057530758
+      "SpriteSheet Monta\xF1aMapa_11": 2498215818518016287
+      "SpriteSheet Monta\xF1aMapa_12": 6297033486445920256
+      "SpriteSheet Monta\xF1aMapa_13": 5364362944698598962
+      "SpriteSheet Monta\xF1aMapa_14": -2132220807522321112
+      "SpriteSheet Monta\xF1aMapa_2": -879757858341750997
+      "SpriteSheet Monta\xF1aMapa_3": 979080809525329136
+      "SpriteSheet Monta\xF1aMapa_4": -3711883672064926101
+      "SpriteSheet Monta\xF1aMapa_5": 8235198462856794110
+      "SpriteSheet Monta\xF1aMapa_6": 2061568255985507867
+      "SpriteSheet Monta\xF1aMapa_7": -4958994254204006106
+      "SpriteSheet Monta\xF1aMapa_8": 7781938138422269141
+      "SpriteSheet Monta\xF1aMapa_9": -8401071725905186848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

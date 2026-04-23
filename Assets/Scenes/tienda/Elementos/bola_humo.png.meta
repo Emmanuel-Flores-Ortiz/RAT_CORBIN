@@ -1,52 +1,82 @@
 fileFormatVersion: 2
-guid: bd71a88186da71e4c98b021f4feedc20
+guid: 0a1f24dd68fd2414ebb3dd3c0e390f84
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6492387232433833354
-    second: SpriteSheet CarrozaMapa_0
+      213: 3203808331633117594
+    second: SpriteSheet Boladehumo_0
   - first:
-      213: -7423228613885134002
-    second: SpriteSheet CarrozaMapa_1
+      213: 4661980451250653618
+    second: SpriteSheet Boladehumo_1
   - first:
-      213: 5615018270007736565
-    second: SpriteSheet CarrozaMapa_2
+      213: 6845059371155006667
+    second: SpriteSheet Boladehumo_2
   - first:
-      213: -7998654871628383118
-    second: SpriteSheet CarrozaMapa_3
+      213: -1308320814729634214
+    second: SpriteSheet Boladehumo_3
   - first:
-      213: 4864580520989606366
-    second: SpriteSheet CarrozaMapa_4
+      213: -6097557546675674696
+    second: SpriteSheet Boladehumo_4
   - first:
-      213: 7939039879512122883
-    second: SpriteSheet CarrozaMapa_5
+      213: -3932696733378361028
+    second: SpriteSheet Boladehumo_5
   - first:
-      213: -4967395810985226731
-    second: SpriteSheet CarrozaMapa_6
+      213: -7701223904856441134
+    second: SpriteSheet Boladehumo_6
   - first:
-      213: -7964260233782432624
-    second: SpriteSheet CarrozaMapa_7
+      213: 1539958783536005377
+    second: SpriteSheet Boladehumo_7
   - first:
-      213: -961633768566401688
-    second: SpriteSheet CarrozaMapa_8
+      213: 653480153420039488
+    second: SpriteSheet Boladehumo_8
   - first:
-      213: -6315745528939447921
-    second: SpriteSheet CarrozaMapa_9
+      213: 6987865200225761719
+    second: SpriteSheet Boladehumo_9
   - first:
-      213: 3261684927298847489
-    second: SpriteSheet CarrozaMapa_10
+      213: -8931548584916737702
+    second: SpriteSheet Boladehumo_10
   - first:
-      213: -83167139268312930
-    second: SpriteSheet CarrozaMapa_11
+      213: -1660146066165589848
+    second: SpriteSheet Boladehumo_11
   - first:
-      213: -2689677518694953652
-    second: SpriteSheet CarrozaMapa_12
+      213: 4960863601221853108
+    second: SpriteSheet Boladehumo_12
   - first:
-      213: 5074770734788273751
-    second: SpriteSheet CarrozaMapa_13
+      213: -5411338370052312093
+    second: SpriteSheet Boladehumo_13
   - first:
-      213: 2983298088581743743
-    second: SpriteSheet CarrozaMapa_14
+      213: -6996524119391648491
+    second: SpriteSheet Boladehumo_14
+  - first:
+      213: 2744261769201095937
+    second: SpriteSheet Boladehumo_15
+  - first:
+      213: -4083769886119562048
+    second: SpriteSheet Boladehumo_16
+  - first:
+      213: 9168968569652586500
+    second: SpriteSheet Boladehumo_17
+  - first:
+      213: 5940942609032201200
+    second: SpriteSheet Boladehumo_18
+  - first:
+      213: 6515825431172324061
+    second: SpriteSheet Boladehumo_19
+  - first:
+      213: 6637620964858241638
+    second: SpriteSheet Boladehumo_20
+  - first:
+      213: 4643867335863464038
+    second: SpriteSheet Boladehumo_21
+  - first:
+      213: 609716107354229853
+    second: SpriteSheet Boladehumo_22
+  - first:
+      213: -8078360589964514923
+    second: SpriteSheet Boladehumo_23
+  - first:
+      213: 4815914716002723721
+    second: SpriteSheet Boladehumo_24
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -79,7 +109,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -114,10 +144,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -142,331 +172,331 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_0
+      name: SpriteSheet Boladehumo_0
       rect:
         serializedVersion: 2
-        x: 462
-        y: 3766
-        width: 124
-        height: 95
+        x: 191
+        y: 4035
+        width: 176
+        height: 203
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67aff72d53866e5a0800000000000000
-      internalID: -6492387232433833354
+      spriteID: a99cd6ff3b6367c20800000000000000
+      internalID: 3203808331633117594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_1
+      name: SpriteSheet Boladehumo_1
       rect:
         serializedVersion: 2
-        x: 2546
-        y: 3766
-        width: 124
-        height: 95
+        x: 2259
+        y: 4035
+        width: 176
+        height: 203
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e4b7cd6d7e46bf890800000000000000
-      internalID: -7423228613885134002
+      spriteID: 2b94c9a258ea2b040800000000000000
+      internalID: 4661980451250653618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_2
+      name: SpriteSheet Boladehumo_2
       rect:
         serializedVersion: 2
-        x: 4668
-        y: 3766
-        width: 124
-        height: 95
+        x: 4327
+        y: 4035
+        width: 176
+        height: 203
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f8b32fed5d8ced40800000000000000
-      internalID: 5615018270007736565
+      spriteID: bc4272c3b398efe50800000000000000
+      internalID: 6845059371155006667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_3
+      name: SpriteSheet Boladehumo_3
       rect:
         serializedVersion: 2
-        x: 6770
-        y: 3767
-        width: 124
-        height: 92
+        x: 6395
+        y: 4035
+        width: 176
+        height: 203
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27c74afd5c11ff090800000000000000
-      internalID: -7998654871628383118
+      spriteID: a5e5ac99629e7dde0800000000000000
+      internalID: -1308320814729634214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_4
+      name: SpriteSheet Boladehumo_4
       rect:
         serializedVersion: 2
-        x: 587
-        y: 2574
-        width: 124
-        height: 95
+        x: 191
+        y: 2843
+        width: 176
+        height: 203
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed1cedec536728340800000000000000
-      internalID: 4864580520989606366
+      spriteID: 8b1e4e0b7bf116ba0800000000000000
+      internalID: -6097557546675674696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_5
+      name: SpriteSheet Boladehumo_5
       rect:
         serializedVersion: 2
-        x: 2693
-        y: 2575
-        width: 124
-        height: 94
+        x: 2259
+        y: 2843
+        width: 176
+        height: 203
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 306eaf325b22d2e60800000000000000
-      internalID: 7939039879512122883
+      spriteID: c39c4a548214c69c0800000000000000
+      internalID: -3932696733378361028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_6
+      name: SpriteSheet Boladehumo_6
       rect:
         serializedVersion: 2
-        x: 4814
-        y: 2574
-        width: 124
-        height: 95
+        x: 4327
+        y: 2843
+        width: 176
+        height: 203
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 51e467b04d3401bb0800000000000000
-      internalID: -4967395810985226731
+      spriteID: 2def84f49a1cf1590800000000000000
+      internalID: -7701223904856441134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_7
+      name: SpriteSheet Boladehumo_7
       rect:
         serializedVersion: 2
-        x: 6882
-        y: 2574
-        width: 124
-        height: 93
+        x: 6395
+        y: 2843
+        width: 176
+        height: 204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 09ce0aa8383497190800000000000000
-      internalID: -7964260233782432624
+      spriteID: 1010865ca580f5510800000000000000
+      internalID: 1539958783536005377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_8
+      name: SpriteSheet Boladehumo_8
       rect:
         serializedVersion: 2
-        x: 678
-        y: 1382
-        width: 124
-        height: 91
+        x: 191
+        y: 1651
+        width: 176
+        height: 204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8655494be2797a2f0800000000000000
-      internalID: -961633768566401688
+      spriteID: 0458e5cbcb0a11900800000000000000
+      internalID: 653480153420039488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_9
+      name: SpriteSheet Boladehumo_10
       rect:
         serializedVersion: 2
-        x: 2693
-        y: 1383
-        width: 124
-        height: 94
+        x: 2259
+        y: 1651
+        width: 176
+        height: 204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f897dc757e6f958a0800000000000000
-      internalID: -6315745528939447921
+      spriteID: a5125e522e3cc0480800000000000000
+      internalID: -8931548584916737702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_10
+      name: SpriteSheet Boladehumo_12
       rect:
         serializedVersion: 2
-        x: 4723
-        y: 1382
-        width: 124
-        height: 95
+        x: 4327
+        y: 1651
+        width: 176
+        height: 204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 103c4e40925d34d20800000000000000
-      internalID: 3261684927298847489
+      spriteID: 4bf5ef9592788d440800000000000000
+      internalID: 4960863601221853108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_11
+      name: SpriteSheet Boladehumo_14
       rect:
         serializedVersion: 2
-        x: 6770
-        y: 1383
-        width: 124
-        height: 92
+        x: 6393
+        y: 1654
+        width: 176
+        height: 204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e904dee6de788def0800000000000000
-      internalID: -83167139268312930
+      spriteID: 5154531f16a57ee90800000000000000
+      internalID: -6996524119391648491
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_12
+      name: SpriteSheet Boladehumo_17
       rect:
         serializedVersion: 2
-        x: 532
-        y: 190
-        width: 124
-        height: 95
+        x: 191
+        y: 459
+        width: 176
+        height: 204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c4d45d91c885caad0800000000000000
-      internalID: -2689677518694953652
+      spriteID: 4082dd6b558be3f70800000000000000
+      internalID: 9168968569652586500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_13
+      name: SpriteSheet Boladehumo_19
       rect:
         serializedVersion: 2
-        x: 2546
-        y: 190
-        width: 124
-        height: 95
+        x: 2259
+        y: 459
+        width: 176
+        height: 204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7566a9398153d6640800000000000000
-      internalID: 5074770734788273751
+      spriteID: dda9b7315bcdc6a50800000000000000
+      internalID: 6515825431172324061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet CarrozaMapa_14
+      name: SpriteSheet Boladehumo_21
       rect:
         serializedVersion: 2
-        x: 4598
-        y: 190
-        width: 124
-        height: 95
+        x: 4327
+        y: 459
+        width: 176
+        height: 204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f74440d2ecdc66920800000000000000
-      internalID: 2983298088581743743
+      spriteID: 6607e2adcb4527040800000000000000
+      internalID: 4643867335863464038
       vertices: []
       indices: 
       edges: []
@@ -475,7 +505,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9819626e46a5c9440b1b2c4ad79b64b9
     internalID: 0
     vertices: []
     indices: 
@@ -485,21 +515,31 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SpriteSheet CarrozaMapa_0: -6492387232433833354
-      SpriteSheet CarrozaMapa_1: -7423228613885134002
-      SpriteSheet CarrozaMapa_10: 3261684927298847489
-      SpriteSheet CarrozaMapa_11: -83167139268312930
-      SpriteSheet CarrozaMapa_12: -2689677518694953652
-      SpriteSheet CarrozaMapa_13: 5074770734788273751
-      SpriteSheet CarrozaMapa_14: 2983298088581743743
-      SpriteSheet CarrozaMapa_2: 5615018270007736565
-      SpriteSheet CarrozaMapa_3: -7998654871628383118
-      SpriteSheet CarrozaMapa_4: 4864580520989606366
-      SpriteSheet CarrozaMapa_5: 7939039879512122883
-      SpriteSheet CarrozaMapa_6: -4967395810985226731
-      SpriteSheet CarrozaMapa_7: -7964260233782432624
-      SpriteSheet CarrozaMapa_8: -961633768566401688
-      SpriteSheet CarrozaMapa_9: -6315745528939447921
+      SpriteSheet Boladehumo_0: 3203808331633117594
+      SpriteSheet Boladehumo_1: 4661980451250653618
+      SpriteSheet Boladehumo_10: -8931548584916737702
+      SpriteSheet Boladehumo_11: -1660146066165589848
+      SpriteSheet Boladehumo_12: 4960863601221853108
+      SpriteSheet Boladehumo_13: -5411338370052312093
+      SpriteSheet Boladehumo_14: -6996524119391648491
+      SpriteSheet Boladehumo_15: 2744261769201095937
+      SpriteSheet Boladehumo_16: -4083769886119562048
+      SpriteSheet Boladehumo_17: 9168968569652586500
+      SpriteSheet Boladehumo_18: 5940942609032201200
+      SpriteSheet Boladehumo_19: 6515825431172324061
+      SpriteSheet Boladehumo_2: 6845059371155006667
+      SpriteSheet Boladehumo_20: 6637620964858241638
+      SpriteSheet Boladehumo_21: 4643867335863464038
+      SpriteSheet Boladehumo_22: 609716107354229853
+      SpriteSheet Boladehumo_23: -8078360589964514923
+      SpriteSheet Boladehumo_24: 4815914716002723721
+      SpriteSheet Boladehumo_3: -1308320814729634214
+      SpriteSheet Boladehumo_4: -6097557546675674696
+      SpriteSheet Boladehumo_5: -3932696733378361028
+      SpriteSheet Boladehumo_6: -7701223904856441134
+      SpriteSheet Boladehumo_7: 1539958783536005377
+      SpriteSheet Boladehumo_8: 653480153420039488
+      SpriteSheet Boladehumo_9: 6987865200225761719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

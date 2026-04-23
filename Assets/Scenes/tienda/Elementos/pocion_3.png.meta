@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: c0dc478034449f2439113505bc906278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1225923631483509522
+    second: SpriteSheet Pocion3Cuervo_0
+  - first:
+      213: -4319593571139984913
+    second: SpriteSheet Pocion3Cuervo_1
+  - first:
+      213: 2537409472360860478
+    second: SpriteSheet Pocion3Cuervo_2
+  - first:
+      213: -6999959747597412525
+    second: SpriteSheet Pocion3Cuervo_3
+  - first:
+      213: 3625194487731311061
+    second: SpriteSheet Pocion3Cuervo_4
+  - first:
+      213: -4936539750068842736
+    second: SpriteSheet Pocion3Cuervo_5
+  - first:
+      213: -4380599563418696891
+    second: SpriteSheet Pocion3Cuervo_6
+  - first:
+      213: 7191919157185657082
+    second: SpriteSheet Pocion3Cuervo_7
+  - first:
+      213: -3979116650068744445
+    second: SpriteSheet Pocion3Cuervo_8
+  - first:
+      213: 3358074856400978915
+    second: SpriteSheet Pocion3Cuervo_9
+  - first:
+      213: -1334996100947189818
+    second: SpriteSheet Pocion3Cuervo_10
+  - first:
+      213: -5000079510805353730
+    second: SpriteSheet Pocion3Cuervo_11
+  - first:
+      213: -1813491232847158704
+    second: SpriteSheet Pocion3Cuervo_12
+  - first:
+      213: -8101596185698155658
+    second: SpriteSheet Pocion3Cuervo_13
+  - first:
+      213: -8294407951558833408
+    second: SpriteSheet Pocion3Cuervo_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_0
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3734
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bd4503c0b530110800000000000000
+      internalID: 1225923631483509522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_1
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 3734
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1e3228888bd04c0800000000000000
+      internalID: -4319593571139984913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_2
+      rect:
+        serializedVersion: 2
+        x: 4761
+        y: 3734
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bc7c9a870b63320800000000000000
+      internalID: 2537409472360860478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_3
+      rect:
+        serializedVersion: 2
+        x: 6829
+        y: 3734
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3575c6a62b52bde90800000000000000
+      internalID: -6999959747597412525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2542
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1dde2fd274f4230800000000000000
+      internalID: 3625194487731311061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_5
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 2542
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f0d819043ed7bb0800000000000000
+      internalID: -4936539750068842736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_6
+      rect:
+        serializedVersion: 2
+        x: 4761
+        y: 2542
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543823f08ebf433c0800000000000000
+      internalID: -4380599563418696891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_7
+      rect:
+        serializedVersion: 2
+        x: 6829
+        y: 2542
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8b0697e54dec360800000000000000
+      internalID: 7191919157185657082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_8
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1350
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3076fc03d7657c8c0800000000000000
+      internalID: -3979116650068744445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_9
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 1350
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e383f04a474a9e20800000000000000
+      internalID: 3358074856400978915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_10
+      rect:
+        serializedVersion: 2
+        x: 4761
+        y: 1350
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfd28a8e14297de0800000000000000
+      internalID: -1334996100947189818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_11
+      rect:
+        serializedVersion: 2
+        x: 6829
+        y: 1350
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaecbd2d262c9ab0800000000000000
+      internalID: -5000079510805353730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_12
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 158
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0522cdef45f25d6e0800000000000000
+      internalID: -1813491232847158704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_13
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 158
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6734dc57139519f80800000000000000
+      internalID: -8101596185698155658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Pocion3Cuervo_14
+      rect:
+        serializedVersion: 2
+        x: 4761
+        y: 158
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b0929e9e754ec80800000000000000
+      internalID: -8294407951558833408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteSheet Pocion3Cuervo_0: 1225923631483509522
+      SpriteSheet Pocion3Cuervo_1: -4319593571139984913
+      SpriteSheet Pocion3Cuervo_10: -1334996100947189818
+      SpriteSheet Pocion3Cuervo_11: -5000079510805353730
+      SpriteSheet Pocion3Cuervo_12: -1813491232847158704
+      SpriteSheet Pocion3Cuervo_13: -8101596185698155658
+      SpriteSheet Pocion3Cuervo_14: -8294407951558833408
+      SpriteSheet Pocion3Cuervo_2: 2537409472360860478
+      SpriteSheet Pocion3Cuervo_3: -6999959747597412525
+      SpriteSheet Pocion3Cuervo_4: 3625194487731311061
+      SpriteSheet Pocion3Cuervo_5: -4936539750068842736
+      SpriteSheet Pocion3Cuervo_6: -4380599563418696891
+      SpriteSheet Pocion3Cuervo_7: 7191919157185657082
+      SpriteSheet Pocion3Cuervo_8: -3979116650068744445
+      SpriteSheet Pocion3Cuervo_9: 3358074856400978915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

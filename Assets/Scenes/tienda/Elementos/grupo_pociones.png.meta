@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: a9e9ed53d0c0e9345bfc9700524a9866
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4118125822823047288
+    second: SpriteSheet Grupodepociones_0
+  - first:
+      213: -2687165289435186311
+    second: SpriteSheet Grupodepociones_1
+  - first:
+      213: 6157521338181604752
+    second: SpriteSheet Grupodepociones_2
+  - first:
+      213: -978113169180780638
+    second: SpriteSheet Grupodepociones_3
+  - first:
+      213: 1688559741354690012
+    second: SpriteSheet Grupodepociones_4
+  - first:
+      213: 8683185542180414323
+    second: SpriteSheet Grupodepociones_5
+  - first:
+      213: -5007658004913570626
+    second: SpriteSheet Grupodepociones_6
+  - first:
+      213: -7177026323490030498
+    second: SpriteSheet Grupodepociones_7
+  - first:
+      213: 3473215303374357219
+    second: SpriteSheet Grupodepociones_8
+  - first:
+      213: -4372481456844245874
+    second: SpriteSheet Grupodepociones_9
+  - first:
+      213: -2757935405458326343
+    second: SpriteSheet Grupodepociones_10
+  - first:
+      213: 527704549696662020
+    second: SpriteSheet Grupodepociones_11
+  - first:
+      213: -5127595923547243827
+    second: SpriteSheet Grupodepociones_12
+  - first:
+      213: 3073431391258309033
+    second: SpriteSheet Grupodepociones_13
+  - first:
+      213: -3979009522689156701
+    second: SpriteSheet Grupodepociones_14
+  - first:
+      213: -3966294271237828107
+    second: SpriteSheet Grupodepociones_15
+  - first:
+      213: -8927247562245902122
+    second: SpriteSheet Grupodepociones_16
+  - first:
+      213: 7956152947487786294
+    second: SpriteSheet Grupodepociones_17
+  - first:
+      213: 7371429727710239528
+    second: SpriteSheet Grupodepociones_18
+  - first:
+      213: 4085976318283553637
+    second: SpriteSheet Grupodepociones_19
+  - first:
+      213: 3105892033243353199
+    second: SpriteSheet Grupodepociones_20
+  - first:
+      213: 6322846422947481123
+    second: SpriteSheet Grupodepociones_21
+  - first:
+      213: -3802761996514070726
+    second: SpriteSheet Grupodepociones_22
+  - first:
+      213: -4381233360438092384
+    second: SpriteSheet Grupodepociones_23
+  - first:
+      213: -7582680744464074015
+    second: SpriteSheet Grupodepociones_24
+  - first:
+      213: 9185711256837625170
+    second: SpriteSheet Grupodepociones_25
+  - first:
+      213: -3796650695905315643
+    second: SpriteSheet Grupodepociones_26
+  - first:
+      213: 8609500176774859742
+    second: SpriteSheet Grupodepociones_27
+  - first:
+      213: 1344041527014271845
+    second: SpriteSheet Grupodepociones_28
+  - first:
+      213: 5147788661745269180
+    second: SpriteSheet Grupodepociones_29
+  - first:
+      213: 539305977513789493
+    second: SpriteSheet Grupodepociones_30
+  - first:
+      213: 1807393191775121686
+    second: SpriteSheet Grupodepociones_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_2
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 4032
+        width: 362
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d33b7809e37550800000000000000
+      internalID: 6157521338181604752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_3
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 4032
+        width: 362
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a719d0414b0d62f0800000000000000
+      internalID: -978113169180780638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_4
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 4032
+        width: 383
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5c87d6328fe6710800000000000000
+      internalID: 1688559741354690012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_5
+      rect:
+        serializedVersion: 2
+        x: 7638
+        y: 4032
+        width: 434
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373a870ce3fd08870800000000000000
+      internalID: 8683185542180414323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_6
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2840
+        width: 444
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc3c748399318ab0800000000000000
+      internalID: -5007658004913570626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_7
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 3042
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cbfb49594166c90800000000000000
+      internalID: -7177026323490030498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_8
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 2840
+        width: 459
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e24412aae6533030800000000000000
+      internalID: 3473215303374357219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_9
+      rect:
+        serializedVersion: 2
+        x: 5534
+        y: 2826
+        width: 470
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84f0d90843d153c0800000000000000
+      internalID: -4372481456844245874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_10
+      rect:
+        serializedVersion: 2
+        x: 7557
+        y: 2810
+        width: 515
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcfe246c58d9b9d0800000000000000
+      internalID: -2757935405458326343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_11
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 3021
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ae607fd78c25700800000000000000
+      internalID: 527704549696662020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_21
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1634
+        width: 470
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326422162534fb750800000000000000
+      internalID: 6322846422947481123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_22
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 1648
+        width: 459
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f6c60bc10e93bc0800000000000000
+      internalID: -3802761996514070726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_23
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 1648
+        width: 444
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad1ff0b87bb233c0800000000000000
+      internalID: -4381233360438092384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_24
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 1850
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea3605a908e4c690800000000000000
+      internalID: -7582680744464074015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_25
+      rect:
+        serializedVersion: 2
+        x: 7638
+        y: 1648
+        width: 434
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2551d1958b33a7f70800000000000000
+      internalID: 9185711256837625170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_26
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 1829
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4f25ebe469f4bc0800000000000000
+      internalID: -3796650695905315643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_29
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 456
+        width: 383
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb93c12838e907740800000000000000
+      internalID: 5147788661745269180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_30
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 456
+        width: 362
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53844feddeffb7700800000000000000
+      internalID: 539305977513789493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Grupodepociones_31
+      rect:
+        serializedVersion: 2
+        x: 5642
+        y: 456
+        width: 362
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611373d2886251910800000000000000
+      internalID: 1807393191775121686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ebedb892e192b9849aa60b5348fffbff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteSheet Grupodepociones_0: -4118125822823047288
+      SpriteSheet Grupodepociones_1: -2687165289435186311
+      SpriteSheet Grupodepociones_10: -2757935405458326343
+      SpriteSheet Grupodepociones_11: 527704549696662020
+      SpriteSheet Grupodepociones_12: -5127595923547243827
+      SpriteSheet Grupodepociones_13: 3073431391258309033
+      SpriteSheet Grupodepociones_14: -3979009522689156701
+      SpriteSheet Grupodepociones_15: -3966294271237828107
+      SpriteSheet Grupodepociones_16: -8927247562245902122
+      SpriteSheet Grupodepociones_17: 7956152947487786294
+      SpriteSheet Grupodepociones_18: 7371429727710239528
+      SpriteSheet Grupodepociones_19: 4085976318283553637
+      SpriteSheet Grupodepociones_2: 6157521338181604752
+      SpriteSheet Grupodepociones_20: 3105892033243353199
+      SpriteSheet Grupodepociones_21: 6322846422947481123
+      SpriteSheet Grupodepociones_22: -3802761996514070726
+      SpriteSheet Grupodepociones_23: -4381233360438092384
+      SpriteSheet Grupodepociones_24: -7582680744464074015
+      SpriteSheet Grupodepociones_25: 9185711256837625170
+      SpriteSheet Grupodepociones_26: -3796650695905315643
+      SpriteSheet Grupodepociones_27: 8609500176774859742
+      SpriteSheet Grupodepociones_28: 1344041527014271845
+      SpriteSheet Grupodepociones_29: 5147788661745269180
+      SpriteSheet Grupodepociones_3: -978113169180780638
+      SpriteSheet Grupodepociones_30: 539305977513789493
+      SpriteSheet Grupodepociones_31: 1807393191775121686
+      SpriteSheet Grupodepociones_4: 1688559741354690012
+      SpriteSheet Grupodepociones_5: 8683185542180414323
+      SpriteSheet Grupodepociones_6: -5007658004913570626
+      SpriteSheet Grupodepociones_7: -7177026323490030498
+      SpriteSheet Grupodepociones_8: 3473215303374357219
+      SpriteSheet Grupodepociones_9: -4372481456844245874
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

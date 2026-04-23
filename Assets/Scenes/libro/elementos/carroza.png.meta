@@ -1,52 +1,52 @@
 fileFormatVersion: 2
-guid: 9d3f99602dd288546b6c6ce0783f24ab
+guid: bd71a88186da71e4c98b021f4feedc20
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8684444769491407769
-    second: SpriteSheet Vela_0
+      213: -6492387232433833354
+    second: SpriteSheet CarrozaMapa_0
   - first:
-      213: 3094649860423534558
-    second: SpriteSheet Vela_1
+      213: -7423228613885134002
+    second: SpriteSheet CarrozaMapa_1
   - first:
-      213: 4014535351800431002
-    second: SpriteSheet Vela_2
+      213: 5615018270007736565
+    second: SpriteSheet CarrozaMapa_2
   - first:
-      213: 7508565132592032209
-    second: SpriteSheet Vela_3
+      213: -7998654871628383118
+    second: SpriteSheet CarrozaMapa_3
   - first:
-      213: 1942156461525798600
-    second: SpriteSheet Vela_4
+      213: 4864580520989606366
+    second: SpriteSheet CarrozaMapa_4
   - first:
-      213: -8168552557463815313
-    second: SpriteSheet Vela_5
+      213: 7939039879512122883
+    second: SpriteSheet CarrozaMapa_5
   - first:
-      213: 2198101200557639586
-    second: SpriteSheet Vela_6
+      213: -4967395810985226731
+    second: SpriteSheet CarrozaMapa_6
   - first:
-      213: 3507219158220672619
-    second: SpriteSheet Vela_7
+      213: -7964260233782432624
+    second: SpriteSheet CarrozaMapa_7
   - first:
-      213: 2503485196791221126
-    second: SpriteSheet Vela_8
+      213: -961633768566401688
+    second: SpriteSheet CarrozaMapa_8
   - first:
-      213: -3603342871299392888
-    second: SpriteSheet Vela_9
+      213: -6315745528939447921
+    second: SpriteSheet CarrozaMapa_9
   - first:
-      213: 8598413564713428126
-    second: SpriteSheet Vela_10
+      213: 3261684927298847489
+    second: SpriteSheet CarrozaMapa_10
   - first:
-      213: 9198353557291235041
-    second: SpriteSheet Vela_11
+      213: -83167139268312930
+    second: SpriteSheet CarrozaMapa_11
   - first:
-      213: -2658344374467995387
-    second: SpriteSheet Vela_12
+      213: -2689677518694953652
+    second: SpriteSheet CarrozaMapa_12
   - first:
-      213: 7071405492069294087
-    second: SpriteSheet Vela_13
+      213: 5074770734788273751
+    second: SpriteSheet CarrozaMapa_13
   - first:
-      213: 3725801115078021380
-    second: SpriteSheet Vela_14
+      213: 2983298088581743743
+    second: SpriteSheet CarrozaMapa_14
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -79,7 +79,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -114,10 +114,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -142,13 +142,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteSheet Vela_0
+      name: SpriteSheet CarrozaMapa_0
       rect:
         serializedVersion: 2
-        x: 83
-        y: 3700
-        width: 181
-        height: 307
+        x: 462
+        y: 3766
+        width: 124
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,20 +157,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 993d8057188558870800000000000000
-      internalID: 8684444769491407769
+      spriteID: 67aff72d53866e5a0800000000000000
+      internalID: -6492387232433833354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_1
+      name: SpriteSheet CarrozaMapa_1
       rect:
         serializedVersion: 2
-        x: 2151
-        y: 3700
-        width: 181
-        height: 308
+        x: 2546
+        y: 3766
+        width: 124
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed7c1c2e6a762fa20800000000000000
-      internalID: 3094649860423534558
+      spriteID: e4b7cd6d7e46bf890800000000000000
+      internalID: -7423228613885134002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_2
+      name: SpriteSheet CarrozaMapa_2
       rect:
         serializedVersion: 2
-        x: 4219
-        y: 3700
-        width: 181
-        height: 316
+        x: 4668
+        y: 3766
+        width: 124
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,20 +201,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a91005ee1ae76b730800000000000000
-      internalID: 4014535351800431002
+      spriteID: 5f8b32fed5d8ced40800000000000000
+      internalID: 5615018270007736565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_3
+      name: SpriteSheet CarrozaMapa_3
       rect:
         serializedVersion: 2
-        x: 6287
-        y: 3700
-        width: 181
-        height: 330
+        x: 6770
+        y: 3767
+        width: 124
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d9280db438c33860800000000000000
-      internalID: 7508565132592032209
+      spriteID: 27c74afd5c11ff090800000000000000
+      internalID: -7998654871628383118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_4
+      name: SpriteSheet CarrozaMapa_4
       rect:
         serializedVersion: 2
-        x: 83
-        y: 2508
-        width: 181
-        height: 343
+        x: 587
+        y: 2574
+        width: 124
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ce8973030de3fa10800000000000000
-      internalID: 1942156461525798600
+      spriteID: ed1cedec536728340800000000000000
+      internalID: 4864580520989606366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_5
+      name: SpriteSheet CarrozaMapa_5
       rect:
         serializedVersion: 2
-        x: 2151
-        y: 2508
-        width: 181
-        height: 378
+        x: 2693
+        y: 2575
+        width: 124
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,20 +267,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6bb2435ab873ae80800000000000000
-      internalID: -8168552557463815313
+      spriteID: 306eaf325b22d2e60800000000000000
+      internalID: 7939039879512122883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_6
+      name: SpriteSheet CarrozaMapa_6
       rect:
         serializedVersion: 2
-        x: 4219
-        y: 2508
-        width: 181
-        height: 385
+        x: 4814
+        y: 2574
+        width: 124
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,20 +289,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2a709975569318e10800000000000000
-      internalID: 2198101200557639586
+      spriteID: 51e467b04d3401bb0800000000000000
+      internalID: -4967395810985226731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_7
+      name: SpriteSheet CarrozaMapa_7
       rect:
         serializedVersion: 2
-        x: 6287
-        y: 2508
-        width: 181
-        height: 392
+        x: 6882
+        y: 2574
+        width: 124
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +311,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6e003b0e352ca030800000000000000
-      internalID: 3507219158220672619
+      spriteID: 09ce0aa8383497190800000000000000
+      internalID: -7964260233782432624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_8
+      name: SpriteSheet CarrozaMapa_8
       rect:
         serializedVersion: 2
-        x: 83
-        y: 1316
-        width: 181
-        height: 387
+        x: 678
+        y: 1382
+        width: 124
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,20 +333,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68b803fb58a2eb220800000000000000
-      internalID: 2503485196791221126
+      spriteID: 8655494be2797a2f0800000000000000
+      internalID: -961633768566401688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_9
+      name: SpriteSheet CarrozaMapa_9
       rect:
         serializedVersion: 2
-        x: 2151
-        y: 1316
-        width: 181
-        height: 378
+        x: 2693
+        y: 1383
+        width: 124
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,20 +355,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88a7348ffba5efdc0800000000000000
-      internalID: -3603342871299392888
+      spriteID: f897dc757e6f958a0800000000000000
+      internalID: -6315745528939447921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_10
+      name: SpriteSheet CarrozaMapa_10
       rect:
         serializedVersion: 2
-        x: 4219
-        y: 1316
-        width: 181
-        height: 343
+        x: 4723
+        y: 1382
+        width: 124
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,20 +377,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e94e4aca493b35770800000000000000
-      internalID: 8598413564713428126
+      spriteID: 103c4e40925d34d20800000000000000
+      internalID: 3261684927298847489
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_11
+      name: SpriteSheet CarrozaMapa_11
       rect:
         serializedVersion: 2
-        x: 6287
-        y: 1316
-        width: 181
-        height: 330
+        x: 6770
+        y: 1383
+        width: 124
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,20 +399,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e67bcc43dd17af70800000000000000
-      internalID: 9198353557291235041
+      spriteID: e904dee6de788def0800000000000000
+      internalID: -83167139268312930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_12
+      name: SpriteSheet CarrozaMapa_12
       rect:
         serializedVersion: 2
-        x: 83
-        y: 124
-        width: 181
-        height: 316
+        x: 532
+        y: 190
+        width: 124
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,20 +421,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5095d2d30e9ab1bd0800000000000000
-      internalID: -2658344374467995387
+      spriteID: c4d45d91c885caad0800000000000000
+      internalID: -2689677518694953652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_13
+      name: SpriteSheet CarrozaMapa_13
       rect:
         serializedVersion: 2
-        x: 2151
-        y: 124
-        width: 181
-        height: 308
+        x: 2546
+        y: 190
+        width: 124
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,20 +443,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 700698144dda22260800000000000000
-      internalID: 7071405492069294087
+      spriteID: 7566a9398153d6640800000000000000
+      internalID: 5074770734788273751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteSheet Vela_14
+      name: SpriteSheet CarrozaMapa_14
       rect:
         serializedVersion: 2
-        x: 4219
-        y: 124
-        width: 181
-        height: 307
+        x: 4598
+        y: 190
+        width: 124
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,8 +465,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 401daffbf54b4b330800000000000000
-      internalID: 3725801115078021380
+      spriteID: f74440d2ecdc66920800000000000000
+      internalID: 2983298088581743743
       vertices: []
       indices: 
       edges: []
@@ -485,21 +485,21 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SpriteSheet Vela_0: 8684444769491407769
-      SpriteSheet Vela_1: 3094649860423534558
-      SpriteSheet Vela_10: 8598413564713428126
-      SpriteSheet Vela_11: 9198353557291235041
-      SpriteSheet Vela_12: -2658344374467995387
-      SpriteSheet Vela_13: 7071405492069294087
-      SpriteSheet Vela_14: 3725801115078021380
-      SpriteSheet Vela_2: 4014535351800431002
-      SpriteSheet Vela_3: 7508565132592032209
-      SpriteSheet Vela_4: 1942156461525798600
-      SpriteSheet Vela_5: -8168552557463815313
-      SpriteSheet Vela_6: 2198101200557639586
-      SpriteSheet Vela_7: 3507219158220672619
-      SpriteSheet Vela_8: 2503485196791221126
-      SpriteSheet Vela_9: -3603342871299392888
+      SpriteSheet CarrozaMapa_0: -6492387232433833354
+      SpriteSheet CarrozaMapa_1: -7423228613885134002
+      SpriteSheet CarrozaMapa_10: 3261684927298847489
+      SpriteSheet CarrozaMapa_11: -83167139268312930
+      SpriteSheet CarrozaMapa_12: -2689677518694953652
+      SpriteSheet CarrozaMapa_13: 5074770734788273751
+      SpriteSheet CarrozaMapa_14: 2983298088581743743
+      SpriteSheet CarrozaMapa_2: 5615018270007736565
+      SpriteSheet CarrozaMapa_3: -7998654871628383118
+      SpriteSheet CarrozaMapa_4: 4864580520989606366
+      SpriteSheet CarrozaMapa_5: 7939039879512122883
+      SpriteSheet CarrozaMapa_6: -4967395810985226731
+      SpriteSheet CarrozaMapa_7: -7964260233782432624
+      SpriteSheet CarrozaMapa_8: -961633768566401688
+      SpriteSheet CarrozaMapa_9: -6315745528939447921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

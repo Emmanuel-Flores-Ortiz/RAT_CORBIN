@@ -1,52 +1,52 @@
 fileFormatVersion: 2
-guid: 75c99b4adadb9394d850e236407b45f6
+guid: 0e99d3e04f316984b802d6aeae96f75e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8893229322131722397
-    second: "SpriteSheet Monta\xF1aMapa_0"
+      213: 2616435995295479030
+    second: SpriteSheet Pocion2Cuervo_0
   - first:
-      213: -8441677149348361762
-    second: "SpriteSheet Monta\xF1aMapa_1"
+      213: -1973397654407664117
+    second: SpriteSheet Pocion2Cuervo_1
   - first:
-      213: -879757858341750997
-    second: "SpriteSheet Monta\xF1aMapa_2"
+      213: 2832933752727495497
+    second: SpriteSheet Pocion2Cuervo_2
   - first:
-      213: 979080809525329136
-    second: "SpriteSheet Monta\xF1aMapa_3"
+      213: 6341781606844369735
+    second: SpriteSheet Pocion2Cuervo_3
   - first:
-      213: -3711883672064926101
-    second: "SpriteSheet Monta\xF1aMapa_4"
+      213: 4239403628101275221
+    second: SpriteSheet Pocion2Cuervo_4
   - first:
-      213: 8235198462856794110
-    second: "SpriteSheet Monta\xF1aMapa_5"
+      213: -153994201301282521
+    second: SpriteSheet Pocion2Cuervo_5
   - first:
-      213: 2061568255985507867
-    second: "SpriteSheet Monta\xF1aMapa_6"
+      213: -4679638493764558086
+    second: SpriteSheet Pocion2Cuervo_6
   - first:
-      213: -4958994254204006106
-    second: "SpriteSheet Monta\xF1aMapa_7"
+      213: -1411278584222564802
+    second: SpriteSheet Pocion2Cuervo_7
   - first:
-      213: 7781938138422269141
-    second: "SpriteSheet Monta\xF1aMapa_8"
+      213: 8109672961415846878
+    second: SpriteSheet Pocion2Cuervo_8
   - first:
-      213: -8401071725905186848
-    second: "SpriteSheet Monta\xF1aMapa_9"
+      213: -3096691223622450211
+    second: SpriteSheet Pocion2Cuervo_9
   - first:
-      213: -8708203737057530758
-    second: "SpriteSheet Monta\xF1aMapa_10"
+      213: 8643374144165943345
+    second: SpriteSheet Pocion2Cuervo_10
   - first:
-      213: 2498215818518016287
-    second: "SpriteSheet Monta\xF1aMapa_11"
+      213: -7890917266317462454
+    second: SpriteSheet Pocion2Cuervo_11
   - first:
-      213: 6297033486445920256
-    second: "SpriteSheet Monta\xF1aMapa_12"
+      213: -8891567030276395617
+    second: SpriteSheet Pocion2Cuervo_12
   - first:
-      213: 5364362944698598962
-    second: "SpriteSheet Monta\xF1aMapa_13"
+      213: -4475811941176290713
+    second: SpriteSheet Pocion2Cuervo_13
   - first:
-      213: -2132220807522321112
-    second: "SpriteSheet Monta\xF1aMapa_14"
+      213: -7911794956684485619
+    second: SpriteSheet Pocion2Cuervo_14
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -79,7 +79,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -114,10 +114,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -142,13 +142,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_0"
+      name: SpriteSheet Pocion2Cuervo_0
       rect:
         serializedVersion: 2
-        x: 1097
-        y: 3905
-        width: 311
-        height: 286
+        x: 835
+        y: 3713
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,20 +157,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36f2044cc07e49480800000000000000
-      internalID: -8893229322131722397
+      spriteID: 6f4f12ddca27f4420800000000000000
+      internalID: 2616435995295479030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_1"
+      name: SpriteSheet Pocion2Cuervo_1
       rect:
         serializedVersion: 2
-        x: 3165
-        y: 3905
-        width: 311
-        height: 286
+        x: 2903
+        y: 3713
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed90f8ccb5329da80800000000000000
-      internalID: -8441677149348361762
+      spriteID: b0e2170f9451d94e0800000000000000
+      internalID: -1973397654407664117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_2"
+      name: SpriteSheet Pocion2Cuervo_2
       rect:
         serializedVersion: 2
-        x: 5233
-        y: 3905
-        width: 311
-        height: 286
+        x: 4971
+        y: 3713
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,20 +201,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b277e2593e87ac3f0800000000000000
-      internalID: -879757858341750997
+      spriteID: 94369831d3a905720800000000000000
+      internalID: 2832933752727495497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_3"
+      name: SpriteSheet Pocion2Cuervo_3
       rect:
         serializedVersion: 2
-        x: 7301
-        y: 3905
-        width: 311
-        height: 286
+        x: 7039
+        y: 3713
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0fcb8221fc4669d00800000000000000
-      internalID: 979080809525329136
+      spriteID: 74b801f65c8820850800000000000000
+      internalID: 6341781606844369735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_4"
+      name: SpriteSheet Pocion2Cuervo_4
       rect:
         serializedVersion: 2
-        x: 1097
-        y: 2713
-        width: 311
-        height: 286
+        x: 835
+        y: 2521
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6e5ff6777dbc7cc0800000000000000
-      internalID: -3711883672064926101
+      spriteID: 55e8a70732365da30800000000000000
+      internalID: 4239403628101275221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_5"
+      name: SpriteSheet Pocion2Cuervo_5
       rect:
         serializedVersion: 2
-        x: 3165
-        y: 2713
-        width: 311
-        height: 286
+        x: 2903
+        y: 2521
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,20 +267,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eff0c69be5d494270800000000000000
-      internalID: 8235198462856794110
+      spriteID: 72197fdf617ecddf0800000000000000
+      internalID: -153994201301282521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_6"
+      name: SpriteSheet Pocion2Cuervo_6
       rect:
         serializedVersion: 2
-        x: 5233
-        y: 2713
-        width: 311
-        height: 286
+        x: 4971
+        y: 2521
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,20 +289,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1edc3af7692c9c10800000000000000
-      internalID: 2061568255985507867
+      spriteID: af26bed65959e0fb0800000000000000
+      internalID: -4679638493764558086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_7"
+      name: SpriteSheet Pocion2Cuervo_7
       rect:
         serializedVersion: 2
-        x: 7301
-        y: 2713
-        width: 311
-        height: 286
+        x: 7042
+        y: 2522
+        width: 175
+        height: 233
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +311,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62197faeffc1e2bb0800000000000000
-      internalID: -4958994254204006106
+      spriteID: e3e3c4cda912a6ce0800000000000000
+      internalID: -1411278584222564802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_8"
+      name: SpriteSheet Pocion2Cuervo_8
       rect:
         serializedVersion: 2
-        x: 1097
-        y: 1521
-        width: 311
-        height: 286
+        x: 835
+        y: 1329
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,20 +333,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d459b4a18ffefb60800000000000000
-      internalID: 7781938138422269141
+      spriteID: edb18cd67985b8070800000000000000
+      internalID: 8109672961415846878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_9"
+      name: SpriteSheet Pocion2Cuervo_9
       rect:
         serializedVersion: 2
-        x: 3165
-        y: 1521
-        width: 311
-        height: 286
+        x: 2903
+        y: 1329
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,20 +355,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0efe7dca6c5696b80800000000000000
-      internalID: -8401071725905186848
+      spriteID: dd30ae43db75605d0800000000000000
+      internalID: -3096691223622450211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_10"
+      name: SpriteSheet Pocion2Cuervo_10
       rect:
         serializedVersion: 2
-        x: 5233
-        y: 1521
-        width: 311
-        height: 286
+        x: 4971
+        y: 1329
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,20 +377,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7ce4f4d6de362780800000000000000
-      internalID: -8708203737057530758
+      spriteID: 1389ec35dfe63f770800000000000000
+      internalID: 8643374144165943345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_11"
+      name: SpriteSheet Pocion2Cuervo_11
       rect:
         serializedVersion: 2
-        x: 7301
-        y: 1521
-        width: 311
-        height: 286
+        x: 7039
+        y: 1329
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,20 +399,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f1137030d027ba220800000000000000
-      internalID: 2498215818518016287
+      spriteID: a44b62ddd84dd7290800000000000000
+      internalID: -7890917266317462454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_12"
+      name: SpriteSheet Pocion2Cuervo_12
       rect:
         serializedVersion: 2
-        x: 1097
-        y: 329
-        width: 311
-        height: 286
+        x: 835
+        y: 137
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,20 +421,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0004952c79e836750800000000000000
-      internalID: 6297033486445920256
+      spriteID: f9deccf35eeca9480800000000000000
+      internalID: -8891567030276395617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_13"
+      name: SpriteSheet Pocion2Cuervo_13
       rect:
         serializedVersion: 2
-        x: 3165
-        y: 329
-        width: 311
-        height: 286
+        x: 2903
+        y: 137
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,20 +443,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23647053dab027a40800000000000000
-      internalID: 5364362944698598962
+      spriteID: 7625cbcd0c8b2e1c0800000000000000
+      internalID: -4475811941176290713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "SpriteSheet Monta\xF1aMapa_14"
+      name: SpriteSheet Pocion2Cuervo_14
       rect:
         serializedVersion: 2
-        x: 5233
-        y: 329
-        width: 311
-        height: 286
+        x: 4971
+        y: 137
+        width: 178
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,8 +465,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 82d7fe8f874d862e0800000000000000
-      internalID: -2132220807522321112
+      spriteID: d0c1817c768a33290800000000000000
+      internalID: -7911794956684485619
       vertices: []
       indices: 
       edges: []
@@ -485,21 +485,21 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "SpriteSheet Monta\xF1aMapa_0": -8893229322131722397
-      "SpriteSheet Monta\xF1aMapa_1": -8441677149348361762
-      "SpriteSheet Monta\xF1aMapa_10": -8708203737057530758
-      "SpriteSheet Monta\xF1aMapa_11": 2498215818518016287
-      "SpriteSheet Monta\xF1aMapa_12": 6297033486445920256
-      "SpriteSheet Monta\xF1aMapa_13": 5364362944698598962
-      "SpriteSheet Monta\xF1aMapa_14": -2132220807522321112
-      "SpriteSheet Monta\xF1aMapa_2": -879757858341750997
-      "SpriteSheet Monta\xF1aMapa_3": 979080809525329136
-      "SpriteSheet Monta\xF1aMapa_4": -3711883672064926101
-      "SpriteSheet Monta\xF1aMapa_5": 8235198462856794110
-      "SpriteSheet Monta\xF1aMapa_6": 2061568255985507867
-      "SpriteSheet Monta\xF1aMapa_7": -4958994254204006106
-      "SpriteSheet Monta\xF1aMapa_8": 7781938138422269141
-      "SpriteSheet Monta\xF1aMapa_9": -8401071725905186848
+      SpriteSheet Pocion2Cuervo_0: 2616435995295479030
+      SpriteSheet Pocion2Cuervo_1: -1973397654407664117
+      SpriteSheet Pocion2Cuervo_10: 8643374144165943345
+      SpriteSheet Pocion2Cuervo_11: -7890917266317462454
+      SpriteSheet Pocion2Cuervo_12: -8891567030276395617
+      SpriteSheet Pocion2Cuervo_13: -4475811941176290713
+      SpriteSheet Pocion2Cuervo_14: -7911794956684485619
+      SpriteSheet Pocion2Cuervo_2: 2832933752727495497
+      SpriteSheet Pocion2Cuervo_3: 6341781606844369735
+      SpriteSheet Pocion2Cuervo_4: 4239403628101275221
+      SpriteSheet Pocion2Cuervo_5: -153994201301282521
+      SpriteSheet Pocion2Cuervo_6: -4679638493764558086
+      SpriteSheet Pocion2Cuervo_7: -1411278584222564802
+      SpriteSheet Pocion2Cuervo_8: 8109672961415846878
+      SpriteSheet Pocion2Cuervo_9: -3096691223622450211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
